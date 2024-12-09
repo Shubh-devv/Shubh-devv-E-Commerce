@@ -1,0 +1,423 @@
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm install
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: next-sanity-image@3.2.1
+npm error Found: @sanity/client@3.3.0
+npm error node_modules/@sanity/client
+npm error   @sanity/client@"^3.2.0" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error node_modules/next-sanity-image
+npm error   next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Conflicting peer dependency: @sanity/client@2.23.2
+npm error node_modules/@sanity/client
+npm error   peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error   node_modules/next-sanity-image
+npm error     next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_35_17_518Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_35_17_518Z-debug-0.log
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> ^C
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm run dev 
+
+> ecommerce@0.1.0 dev
+> next dev
+
+'next' is not recognized as an internal or external command,
+operable program or batch file.
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm install 
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: next-sanity-image@3.2.1
+npm error Found: @sanity/client@3.3.0
+npm error node_modules/@sanity/client
+npm error   @sanity/client@"^3.2.0" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error node_modules/next-sanity-image
+npm error   next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Conflicting peer dependency: @sanity/client@2.23.2
+npm error node_modules/@sanity/client
+npm error   peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error   node_modules/next-sanity-image
+npm error     next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_36_16_416Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_36_16_416Z-debug-0.log
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm start
+
+> ecommerce@0.1.0 start
+> next start
+
+'next' is not recognized as an internal or external command,
+operable program or batch file.
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm i
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: next-sanity-image@3.2.1
+npm error Found: @sanity/client@3.3.0
+npm error node_modules/@sanity/client
+npm error   @sanity/client@"^3.2.0" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error node_modules/next-sanity-image
+npm error   next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Conflicting peer dependency: @sanity/client@2.23.2
+npm error node_modules/@sanity/client
+npm error   peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error   node_modules/next-sanity-image
+npm error     next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_36_34_041Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_36_34_041Z-debug-0.log
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm install --legacy-peer-deps
+>>
+
+added 326 packages, and audited 327 packages in 16s
+
+72 packages are looking for funding
+  run `npm fund` for details
+
+11 vulnerabilities (5 moderate, 4 high, 2 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm run dev 
+   
+> ecommerce@0.1.0 dev
+> next dev
+
+(node:18340) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.env
+info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+info  - Using external babel configuration from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.babelrc
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+event - compiled client and server successfully in 2.8s (256 modules)
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm outdated
+>> npm update
+>>
+Package              Current   Wanted  Latest  Location                          Depended by
+@babel/core           7.17.9   7.26.0  7.26.0  node_modules/@babel/core          ecommerce_sanity_stripe-main
+@babel/preset-react   7.16.7   7.26.3  7.26.3  node_modules/@babel/preset-react  ecommerce_sanity_stripe-main
+@sanity/client         3.3.0    3.4.1  6.24.1  node_modules/@sanity/client       ecommerce_sanity_stripe-main
+@sanity/image-url      1.0.1    1.1.0   1.1.0  node_modules/@sanity/image-url    ecommerce_sanity_stripe-main
+@stripe/stripe-js     1.27.0   1.54.2   5.2.0  node_modules/@stripe/stripe-js    ecommerce_sanity_stripe-main
+canvas-confetti        1.5.1    1.9.3   1.9.3  node_modules/canvas-confetti      ecommerce_sanity_stripe-main
+eslint                8.13.0   8.13.0  9.16.0  node_modules/eslint               ecommerce_sanity_stripe-main
+eslint-config-next    12.1.4   12.1.4  15.0.4  node_modules/eslint-config-next   ecommerce_sanity_stripe-main
+next                  12.1.0   12.1.0  15.0.4  node_modules/next                 ecommerce_sanity_stripe-main
+next-sanity-image      3.2.1    3.2.1   6.1.1  node_modules/next-sanity-image    ecommerce_sanity_stripe-main
+react                 17.0.2   17.0.2  19.0.0  node_modules/react                ecommerce_sanity_stripe-main
+react-dom             17.0.2   17.0.2  19.0.0  node_modules/react-dom            ecommerce_sanity_stripe-main
+react-hot-toast        2.2.0    2.4.1   2.4.1  node_modules/react-hot-toast      ecommerce_sanity_stripe-main
+react-icons            4.3.1   4.12.0   5.4.0  node_modules/react-icons          ecommerce_sanity_stripe-main
+stripe               8.216.0  8.222.0  17.4.0  node_modules/stripe               ecommerce_sanity_stripe-main
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+npm error
+npm error While resolving: ecommerce@0.1.0
+npm error Found: @sanity/client@3.4.1
+npm error node_modules/@sanity/client
+npm error   @sanity/client@"^3.2.0" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer @sanity/client@"^2.11.0" from next-sanity-image@3.2.1
+npm error node_modules/next-sanity-image
+npm error   next-sanity-image@"^3.2.1" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_41_02_479Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\Karab\AppData\Local\npm-cache\_logs\2024-12-08T17_41_02_479Z-debug-0.log
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm uninstall @sanity/client
+>> npm install @sanity/client@^2.11.0
+>>
+
+added 6 packages, removed 2 packages, changed 25 packages, and audited 331 packages in 16s
+
+71 packages are looking for funding
+  run `npm fund` for details
+
+10 vulnerabilities (5 moderate, 4 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+up to date, audited 331 packages in 2s
+
+71 packages are looking for funding
+  run `npm fund` for details
+
+10 vulnerabilities (5 moderate, 4 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm run dev
+   
+> ecommerce@0.1.0 dev
+> next dev
+
+(node:3004) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.env
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+event - compiled client and server successfully in 786 ms (268 modules)
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npx browserslist@latest --update-db
+>>
+Need to install the following packages:
+browserslist@4.24.2
+Ok to proceed? (y) y
+
+The --update-db command is deprecated.
+Please use npx update-browserslist-db@latest instead.
+Browserslist DB update will still be made.
+Latest version:     1.0.30001687
+Installed version:  1.0.30001327
+Removing old caniuse-lite from lock file
+Installing new caniuse-lite version
+$ npm install caniuse-lite
+Cleaning package.json dependencies from caniuse-lite
+$ npm uninstall caniuse-lite
+caniuse-lite has been successfully updated
+
+No target browser changes
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm run dev
+   
+> ecommerce@0.1.0 dev
+> next dev
+
+(node:12860) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.env
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+info  - Using external babel configuration from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.babelrc
+event - compiled client and server successfully in 3s (268 modules)
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> node --trace-deprecation ...
+node:internal/modules/cjs/loader:1252
+  throw err;
+  ^
+
+Error: Cannot find module 'C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\...'
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v22.11.0
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> ^C
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm i
+
+up to date, audited 331 packages in 3s
+
+71 packages are looking for funding
+  run `npm fund` for details
+
+10 vulnerabilities (5 moderate, 4 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main> npm run dev 
+
+> ecommerce@0.1.0 dev
+> next dev
+
+(node:912) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.env
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+event - compiled client and server successfully in 351 ms (268 modules)
+wait  - compiling / (client and server)...
+info  - Using external babel configuration from C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main\.babelrc
+event - compiled client and server successfully in 587 ms (271 modules)
+wait  - compiling /product/[slug]...
+event - compiled client and server successfully in 264 ms (273 modules)
+wait  - compiling /product/[slug] (client and server)...
+event - compiled client and server successfully in 159 ms (274 modules)
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+(node:12820) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{
+  price: 99,
+  details: 'Great looking and sounding headphones!',
+  _id: 'd5c7a247-6b46-4326-a98c-b172e79e28a4',
+  _updatedAt: '2022-04-09T10:29:37Z',
+  image: [ { _type: 'image', _key: '41d8354f22ab', asset: [Object] } ],
+  _rev: 'SfIERQMslhaJeTxVtTunTS',
+  _type: 'product',
+  name: 'Headphones',
+  slug: { current: 'headphones', _type: 'slug' },
+  _createdAt: '2022-04-09T10:29:37Z'
+}
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+(node:12716) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{
+  image: [ { _type: 'image', _key: '3e698d4d1df8', asset: [Object] } ],
+  _rev: 'BM1A6k1ZxVmyLJbhBztqjC',
+  name: 'Smartwatch',
+  _updatedAt: '2022-04-10T18:05:11Z',
+  price: 99,
+  _createdAt: '2022-04-10T18:05:11Z',
+  _type: 'product',
+  details: 'Cool smartwatch',
+  _id: '96e537ff-2ca9-4cd5-968a-902275543273',
+  slug: { current: 'smartwatch', _type: 'slug' }
+}
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+(node:14708) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{
+  _rev: 'SfIERQMslhaJeTxVtTunTS',
+  _type: 'product',
+  details: 'Great looking and sounding headphones!',
+  _updatedAt: '2022-04-09T10:29:37Z',
+  slug: { current: 'headphones', _type: 'slug' },
+  price: 99,
+  _createdAt: '2022-04-09T10:29:37Z',
+  name: 'Headphones',
+  _id: 'd5c7a247-6b46-4326-a98c-b172e79e28a4',
+  image: [ { _type: 'image', _key: '41d8354f22ab', asset: [Object] } ]
+}
+wait  - compiling /api/stripe...
+event - compiled client and server successfully in 187 ms (282 modules)
+wait  - compiling /product/[slug] (client and server)...
+event - compiled client and server successfully in 125 ms (283 modules)
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+(node:5484) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{
+  _type: 'product',
+  details: 'Great looking and sounding headphones!',
+  _id: 'd5c7a247-6b46-4326-a98c-b172e79e28a4',
+  _updatedAt: '2022-04-09T10:29:37Z',
+  name: 'Headphones',
+  slug: { _type: 'slug', current: 'headphones' },
+  image: [ { _type: 'image', _key: '41d8354f22ab', asset: [Object] } ],
+  price: 99,
+  _createdAt: '2022-04-09T10:29:37Z',
+  _rev: 'SfIERQMslhaJeTxVtTunTS'
+}
+wait  - compiling / (client and server)...
+event - compiled client and server successfully in 96 ms (284 modules)
+You have set `useCdn` to `true` while also specifying a token. This is usually not what you want. The CDN cannot be used with an authorization token, since private data cannot be cached. See https://docs.sanity.io/help/js-client-usecdn-token for more information.
+(node:5380) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{
+  name: 'Headphones',
+  _id: 'd5c7a247-6b46-4326-a98c-b172e79e28a4',
+  slug: { current: 'headphones', _type: 'slug' },
+  image: [ { _type: 'image', _key: '41d8354f22ab', asset: [Object] } ],
+  price: 99,
+  _type: 'product',
+  details: 'Great looking and sounding headphones!',
+  _updatedAt: '2022-04-09T10:29:37Z',
+  _createdAt: '2022-04-09T10:29:37Z',
+  _rev: 'SfIERQMslhaJeTxVtTunTS'
+}
+PS C:\Users\Karab\OneDrive\Desktop\ecommerce_sanity_stripe-main\ecommerce_sanity_stripe-main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
